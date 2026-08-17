@@ -1,0 +1,4 @@
+interface:
+  display_name: "博士论文研究工作流"
+  short_description: "自包含复用研究推理、科技写作、图表与 LaTeX 工作流"
+  default_prompt: "使用 $thesis-research-workflow，按照作者的证据边界、研究推理、项目术语、图表规范、LaTeX 工作流和质量门控完成本次博士论文任务。"
